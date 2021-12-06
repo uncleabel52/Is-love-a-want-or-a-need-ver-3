@@ -1,0 +1,60 @@
+//a brave pursuit | a strong will | a sincere desire | a honest feeling | an optional pleasant
+//a violent tortune | a dramatic impetuosity | a naive command | a meaningless lust
+// a life long | a noble | a necessary
+//romance | pursuit | duty | burden
+//a lifelong romance | a lifelong pursuit | a noble pursuit | a noble duty | a neccessary duty | a necessary burden
+//a cruel inevitablity | a immoral enforcement | a immoral exploit | a pointless routine | a lifelong slavery
+
+//brave, strong will,
+
+let thirdSceneWordList = [
+  { input: "optional", output: ["carefree", "indulgent"] },
+  { input: "meaningless", output: ["carefree", "foolish"] },
+  { input: "directionless", output: ["diversed", "fragile"] },
+  { input: "foolish", output: ["pure", "naive"] },
+  { input: "pure", output: ["noble", "directionless"] },
+  { input: "noble", output: ["sincere", "meaningless"] },
+  { input: "honest", output: ["pure", "misleading"] },
+  { input: "strong", output: ["lifelong", "overwhelming"] },
+  { input: "violent", output: ["powerful", "overwhelming"] },
+  { input: "powerful", output: ["strong", "meaningless"] },
+  { input: "sincere", output: ["lifelong", "necessary"] },
+  { input: "cruel", output: ["brave", "immoral"] },
+  { input: "naive", output: ["noble", "foolish"] },
+  { input: "overwhelming", output: ["dramatic", "indulgent"] },
+  { input: "dramatic", output: ["powerful", "cruel"] },
+  { input: "necessary", output: ["lifelong", "directionless"] },
+  { input: "carefree", output: ["brave", "immoral"] },
+  { input: "misleading", output: ["strong", "indulgent"] },
+  { input: "indulgent", output: ["carefree", "naive"] },
+  { input: "immoral", output: ["sincere", "violent"] },
+  { input: "lifelong", output: ["carefree", "misleading"] },
+  { input: "brave", output: ["powerful", "foolish"] },
+  { input: "diversed", output: ["honest", "optional"] },
+  { input: "fragile", output: ["pure", "meaningless"] },
+
+  { input: "pleasure", output: ["avocation", "lust"] },
+  { input: "lust", output: ["desire", "impetuosity"] },
+  { input: "routine", output: ["settling", "slavery"] },
+  { input: "feeling", output: ["desire", "fantasy"] },
+  { input: "desire", output: ["romance", "enforcement"] },
+  { input: "pursuit", output: ["will", "burden"] },
+  { input: "will", output: ["statement", "lust"] },
+  { input: "tortune", output: ["statement", "slavery"] },
+  { input: "statement", output: ["pursuit", "enforcement"] },
+  { input: "enforcement", output: ["duty", "burden"] },
+  { input: "burden", output: ["responsibility", "tortune"] },
+  { input: "responsibility", output: ["virtue", "routine"] },
+  { input: "virtue", output: ["pleasant", "fantasy"] },
+  { input: "fantasy", output: ["romance", "exploit"] },
+  { input: "romance", output: ["pursuit", "tortune"] },
+  { input: "slavery", output: ["will", "inevitability"] },
+  { input: "inevitability", output: ["statement", "exploit"] },
+  { input: "exploit", output: ["demand", "impetuosity"] },
+  { input: "impetuosity", output: ["romance", "feeling"] },
+  { input: "avocation", output: ["feeling", "exploit"] },
+  { input: "settling", output: ["commitment", "burden"] },
+  { input: "duty", output: ["commitment", "inevitability"] },
+  { input: "commitment", output: ["virtue", "routine"] },
+  { input: "demand", output: ["desire", "enforcement"] },
+];

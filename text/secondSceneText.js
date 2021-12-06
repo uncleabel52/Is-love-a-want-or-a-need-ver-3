@@ -1,0 +1,33 @@
+let wantLine = [
+  "(( Love | Afterall, love | Perhaps love )) (( is | is just | may just be | could be just)) a want.",
+  "((  | I know | I think | I think )) (( I | I | my mind)) desire (( you | your love | your love | what you've gave me )) .",
+  "Love (( is | is like | is something like )) (( the most vigorous | an uncontrollable | a disorder | a mysterious )) (( magic | power | energy | force | force )) (( in the world |  |  |  )) ,",
+  "attaching me to you.",
+  "(( All of my mind is you. | All I am thinking is you. | And I don't know why. ))",
+  "(( Love is | It's )) (( a glorious | a dazzling | a mindless | unstoppable )) (( passion | impulse | impetuosity )) ,",
+  "(( defeats | overcomes | undergoes | blinds )) (( all obstacle | obstacle | problems | all the doubt | all of my vision )) .",
+  "(( I know | But I know | At the end, | If )) love is (( a want | only a want | only a want | only a want | only a want | only a want )) (( . | . | . | , ))",
+  "It's not essential to life.",
+  "(( But it doesn't | But it doesn't necessarily | But it may not | Perhaps it does | Does it )) mean that love is not important (( . | . | . | . | ? ))",
+  "(( Doesn't mean that it's | May not mean that it's | Is love )) replaceable (( . | . | ? ))",
+  "(( I don't need love. | Love are not essential. | Just like I am replaceable? ))",
+  "(( But I really want | But life is better with | And )) (( you | your truthful heart | the delight when I am with you | everything )) ((  |  |  |  | is optional | is irrelevant )) .",
+  "Is my love LK_ (( a brave pursuit | a stong will | a sincere desire | a honest feeling | an optional pleasure )) _LK or LK_ (( a violent tortune | a dramatic impetuosity | a naive demand | a meaningless lust )) _LK ?",
+];
+
+let needLine = [
+  "(( Love is definitely | Love is | Love is | Love maybe | Could love be | Is love really )) a need (( . | . | . | . | ? | ? ))",
+  "((  | I know | I think | May | Will )) (( I can't live | my heart hurts | I feel lonely | my life be different )) without you (( . | . | . | ? ))",
+  "Without you, my life is (( a sorrow | not complete | missing something | ... )) .",
+  "Love is not food or air.",
+  "(( But I can't | But people can't | But it's difficult to | Could people )) live without love (( . | . | . | ? ))",
+  "(( It's | It can work as | It is just | Could love be )) (( a spiritual | a mental | a mental )) (( necessity | compassion | support | assistance | necessity )) (( . | . | . | ? ))",
+  "(( That's what | As something )) (( I need | everyone needs | people need )) but (( may not | do not )) deserve.",
+  "(( I am | We are | We are | We are | People are )) naturally (( embeded by | dependent to | controlled by )) (( the appetite | the desire | the necessity | the slavery )) of love.",
+  "Like (( I've | we've | we've | we've | people have )) surrendered to food,",
+  "(( I spend my life | We spend our lives | We surrender our own lives | We cage ourselves )) (( for a truthful love | to fullfill the lack of love | chasing the love we need )) .",
+  "(( I am a slave | We are slaves | We are slaves | Why do human have to be slaves )) of love (( . | . | . | ? ))",
+  "(( And I should not | And we do not | And there is no point to | And we don't have a chance to )) escape.",
+  "(( As you have rescued me | As you took me away | You have captured me )) from (( endless | endless | deep |  |  )) (( suffer | loneliness | insufficiency | freedom )) .",
+  "Is love LK_ (( a lifelong | a noble | a necessary )) (( romance | pursuit | duty | burden )) _LK or LK_ (( a cruel inevitability | a strong enforcement | an immoral exploit | a directionless routine | a lifelong slavery )) _LK ?",
+];
